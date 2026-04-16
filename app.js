@@ -9,6 +9,6 @@ function getUserCity(user) {
 const user = {
     name: "Gopesh",
     address: null
-};
+}
 
 console.log(getUserCity(user));
